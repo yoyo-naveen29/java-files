@@ -5,7 +5,7 @@ class even
 		int n=6;
 		if(n%2==0)
 		{
-			n=n/4;
+			n=n/8;
 		}
 		else
 		{
