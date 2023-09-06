@@ -2,7 +2,7 @@ class factorial
 {
 	public static void main(String[] args)
 	{
-		int end=1,start=5,fact=1;
+		int end=1,start=8,fact=1;
 		while(start>=end)
 		{
 			fact=start*fact;
